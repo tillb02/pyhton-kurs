@@ -1,0 +1,10 @@
+a = float(input('Länge des Hauses in Metern: '))
+b = float(input('Läne der Breite des Hauses in Metern:'))
+h1 = float(input('Höhe der Fasade des Hauses in Metern:'))
+h2 = float(input('Höhe des Daches des Hauses in Metern:'))
+
+V1 = (a * b * h2) / 2
+V2 = a * b * h1
+Vges = V1 + V2
+
+print('Das Volumen des Hauses beträgt: ' ,Vges, 'Kubikmeter')
