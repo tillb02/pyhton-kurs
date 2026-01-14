@@ -1,4 +1,4 @@
-#Dateiname: Teilprüfung 3 Till-Emanuel Buchwald.py
+#Dateiname: List_to_JSON.py
 #Autor: Till Buchwald
 #Letze Änderung: 20.12.2024
 
